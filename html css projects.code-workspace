@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../AMAZON PROJECT"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html css projects"
+	}
+}
